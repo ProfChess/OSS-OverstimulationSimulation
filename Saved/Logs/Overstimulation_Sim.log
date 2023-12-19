@@ -2782,3 +2782,1078 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.19-08.29.11:291][738]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 5.98 sec)
 [2023.12.19-08.29.11:296][738]AssetCheck: New page: Asset Save: PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223
 [2023.12.19-08.29.11:296][738]LogContentValidation: Display: Validating /Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter.PlayerCharacter_C /Game/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation.OverstimulationSimulation:PersistentLevel.PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223
+[2023.12.19-08.29.52:532][386]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.19-08.29.52:544][386]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.12.19-08.29.52:550][386]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.12.19-08.29.52:563][387]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.12.19-08.29.58:767][759]LogContentBrowser: Attempting asset rename: NewBlueprint -> BulletBp
+[2023.12.19-08.29.58:774][759]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.12.19-08.30.15:713][961]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.BulletBp
+[2023.12.19-08.30.15:713][961]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-08.30.15:713][961]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.19-08.30.15:820][961]LogViewport: Scene viewport resized to 1141x881, mode Windowed.
+[2023.12.19-08.30.15:877][962]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2023.12.19-08.30.17:470][ 54]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.12.19-08.30.17:470][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-08.30.17:517][ 54]LogViewport: Scene viewport resized to 1141x898, mode Windowed.
+[2023.12.19-08.30.17:539][ 55]LogViewport: Scene viewport resized to 1141x887, mode Windowed.
+[2023.12.19-08.30.17:557][ 56]LogViewport: Scene viewport resized to 1141x880, mode Windowed.
+[2023.12.19-08.30.17:575][ 57]LogViewport: Scene viewport resized to 1141x873, mode Windowed.
+[2023.12.19-08.30.17:592][ 58]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2023.12.19-08.30.20:386][202]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter.PlayerCharacter'
+[2023.12.19-08.30.21:506][268]LogSlate: Window 'PlayerCharacter' being destroyed
+[2023.12.19-08.30.21:512][268]LogSlate: Window 'PlayerCharacter' being destroyed
+[2023.12.19-08.30.21:516][268]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.19-08.30.21:516][268]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.12.19-08.30.21:516][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-08.30.47:705][ 88]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-08.33.07:058][338]BlueprintLog: New page: Compile BulletBp
+[2023.12.19-08.33.07:102][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.12.19-08.33.07:490][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-08.33.07:577][358]LogSavePackage: Moving output files for package: /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp
+[2023.12.19-08.33.07:577][358]LogSavePackage: Moving '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/BulletBp47EED68644CAA385CF37E6A03B4A9FD3.tmp' to '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Content/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.uasset'
+[2023.12.19-08.33.07:587][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 6.08 sec)
+[2023.12.19-08.33.07:593][358]AssetCheck: New page: Asset Save: BulletBp
+[2023.12.19-08.33.07:593][358]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.BulletBp
+[2023.12.19-08.35.08:951][  1]BlueprintLog: New page: Compile BulletBp
+[2023.12.19-08.35.08:988][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.19-08.35.09:766][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-08.35.09:851][ 46]LogSavePackage: Moving output files for package: /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp
+[2023.12.19-08.35.09:852][ 46]LogSavePackage: Moving '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/BulletBpDF99A2BD412C1CAB43263CAFEA9A987A.tmp' to '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Content/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.uasset'
+[2023.12.19-08.35.09:859][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 6.17 sec)
+[2023.12.19-08.35.09:864][ 46]AssetCheck: New page: Asset Save: BulletBp
+[2023.12.19-08.35.09:864][ 46]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.BulletBp
+[2023.12.19-08.35.32:239][994]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter.PlayerCharacter
+[2023.12.19-08.35.32:239][994]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-08.35.32:239][994]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.19-08.36.26:612][225]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.12.19-08.36.26:612][225]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.12.19-08.37.34:776][146]BlueprintLog: New page: Compile PlayerCharacter
+[2023.12.19-08.37.34:787][146]LogBlueprint: Error: [AssetLog] C:\Users\carsm\OneDrive\Documents\Unreal Projects\Overstimulation_Sim\Content\Developers\carsm\Projects\OverStimulationSim\Character\Blueprints\PlayerCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.12.19-08.37.34:787][146]LogBlueprint: Error: [AssetLog] C:\Users\carsm\OneDrive\Documents\Unreal Projects\Overstimulation_Sim\Content\Developers\carsm\Projects\OverStimulationSim\Character\Blueprints\PlayerCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.12.19-08.37.34:864][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.12.19-08.37.35:291][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-08.37.35:408][166]LogSavePackage: Moving output files for package: /Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter
+[2023.12.19-08.37.35:409][166]LogSavePackage: Moving '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/PlayerCharacterD6E3D54147DCDBA011AE4A870E8F4BB1.tmp' to '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Content/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter.uasset'
+[2023.12.19-08.37.35:417][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 6.30 sec)
+[2023.12.19-08.37.35:422][166]AssetCheck: New page: Asset Save: PlayerCharacter
+[2023.12.19-08.37.35:422][166]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter.PlayerCharacter
+[2023.12.19-08.37.42:366][582]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2023.12.19-08.37.50:478][ 61]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2023.12.19-08.37.52:667][193]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.12.19-08.38.06:258][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-08.38.06:335][999]LogSavePackage: Moving output files for package: /Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter
+[2023.12.19-08.38.06:336][999]LogSavePackage: Moving '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/PlayerCharacter4840635E455929E69F71DB868B1B6ECF.tmp' to '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Content/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter.uasset'
+[2023.12.19-08.38.06:345][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 6.39 sec)
+[2023.12.19-08.38.06:352][999]AssetCheck: New page: Asset Save: PlayerCharacter
+[2023.12.19-08.38.06:352][999]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter.PlayerCharacter
+[2023.12.19-08.38.20:483][835]BlueprintLog: New page: Compile PlayerCharacter
+[2023.12.19-08.38.20:572][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.12.19-08.40.10:349][998]BlueprintLog: New page: Compile PlayerCharacter
+[2023.12.19-08.40.10:491][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.12.19-08.40.10:896][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-08.40.10:985][ 16]LogSavePackage: Moving output files for package: /Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter
+[2023.12.19-08.40.10:986][ 16]LogSavePackage: Moving '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/PlayerCharacter6ABB7D8B4F1FC0C6B7F22081A53A0EC3.tmp' to '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Content/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter.uasset'
+[2023.12.19-08.40.10:994][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 6.48 sec)
+[2023.12.19-08.40.10:999][ 16]AssetCheck: New page: Asset Save: PlayerCharacter
+[2023.12.19-08.40.10:999][ 16]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter.PlayerCharacter
+[2023.12.19-08.41.50:542][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.12.19-08.41.50:551][269]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/6/MZ/X3BT7BIIHCVQFHOS6V0109_Auto3
+[2023.12.19-08.41.50:552][269]LogSavePackage: Moving '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/X3BT7BIIHCVQFHOS6V0109_Auto33A8C2590453B7347291704A10D14A782.tmp' to '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/Autosaves/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/6/MZ/X3BT7BIIHCVQFHOS6V0109_Auto3.uasset'
+[2023.12.19-08.41.50:553][269]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation' took 0.046
+[2023.12.19-08.41.50:553][269]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2023.12.19-08.41.50:554][269]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter] ([2] browsable assets)...
+[2023.12.19-08.41.50:610][269]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter.PlayerCharacter]
+[2023.12.19-08.41.50:610][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter]
+[2023.12.19-08.41.50:625][269]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter_Auto3
+[2023.12.19-08.41.50:626][269]LogSavePackage: Moving '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/PlayerCharacter_Auto39BAB10314A31AA499E8AE99F6AFAB245.tmp' to '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/Autosaves/Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter_Auto3.uasset'
+[2023.12.19-08.41.50:628][269]LogFileHelpers: Auto-saving content packages took 0.075
+[2023.12.19-08.42.07:893][ 79]LogEditorTransaction: Undo Move Node
+[2023.12.19-08.42.09:249][142]LogEditorTransaction: Undo Add Node
+[2023.12.19-08.43.26:361][963]BlueprintLog: New page: Compile PlayerCharacter
+[2023.12.19-08.43.26:453][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.19-08.43.27:608][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-08.43.27:730][ 26]LogSavePackage: Moving output files for package: /Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter
+[2023.12.19-08.43.27:742][ 26]LogSavePackage: Moving '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/PlayerCharacterD036A8A6401C89D48BC5C68717A5D74F.tmp' to '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Content/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter.uasset'
+[2023.12.19-08.43.27:749][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 6.63 sec)
+[2023.12.19-08.43.27:754][ 26]AssetCheck: New page: Asset Save: PlayerCharacter
+[2023.12.19-08.43.27:754][ 26]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter.PlayerCharacter
+[2023.12.19-08.43.28:584][ 76]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.28:612][ 77]LogViewport: Scene viewport resized to 463x274, mode Windowed.
+[2023.12.19-08.43.31:842][254]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.19-08.43.31:848][254]LogContentBundle: [OverstimulationSimulation(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.19-08.43.31:850][254]LogWorldPartition: Display: GenerateStreaming started...
+[2023.12.19-08.43.31:850][254]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.12.19-08.43.31:850][254]LogWorldPartition: Display: GetPartitionedActors took 11 us (total: 357 us)
+[2023.12.19-08.43.31:850][254]LogWorldPartition: Display: GenerateStreaming took 138 us (total: 1 ms)
+[2023.12.19-08.43.31:850][254]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.19-08.43.31:851][254]PIE: New page: PIE session: OverstimulationSimulation (Dec. 19, 2023, 12:43:31 a.m.)
+[2023.12.19-08.43.31:851][254]LogPlayLevel: Creating play world package: /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation
+[2023.12.19-08.43.31:854][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003340s)
+[2023.12.19-08.43.31:854][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation.OverstimulationSimulation to /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation.OverstimulationSimulation (0.003384s)
+[2023.12.19-08.43.31:854][254]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-08.43.31:854][254]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.19-08.43.31:854][254]LogAIModule: Creating AISystem for world OverstimulationSimulation
+[2023.12.19-08.43.31:855][254]LogWorldPartition: ULevel::OnLevelLoaded(OverstimulationSimulation)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.19-08.43.31:855][254]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.19-08.43.31:855][254]LogWorldPartition: UWorldPartition::Initialize(Asset=OverstimulationSimulation, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.12.19-08.43.31:855][254]LogContentBundle: [OverstimulationSimulation(Standalone)] Creating new contrainer.
+[2023.12.19-08.43.31:855][254]LogWorldPartition: Display: WorldPartition initialize took 688 us (total: 581 ms)
+[2023.12.19-08.43.31:855][254]LogPlayLevel: PIE: World Init took: (0.001807s)
+[2023.12.19-08.43.31:876][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.12.19-08.43.31:879][254]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.12.19-08.43.31:879][254]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.19-08.43.31:879][254]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.19-08.43.31:879][254]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.19-08.43.31:879][254]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.19-08.43.31:879][254]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.19-08.43.31:879][254]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.19-08.43.31:879][254]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.19-08.43.31:879][254]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.19-08.43.31:879][254]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.19-08.43.31:879][254]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.19-08.43.31:879][254]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.19-08.43.31:881][254]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.19-08.43.31:894][254]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken V3)
+[2023.12.19-08.43.31:894][254]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.19-08.43.31:894][254]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.19-08.43.31:894][254]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.19-08.43.31:895][254]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.12.19-08.43.31:895][254]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.12.19-08.43.31:897][254]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.12.19-08.43.31:897][254]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.12.19-08.43.31:897][254]LogInit: FAudioDevice initialized with ID 9.
+[2023.12.19-08.43.31:897][254]LogAudio: Display: Audio Device (ID: 9) registered with world 'OverstimulationSimulation'.
+[2023.12.19-08.43.31:897][254]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.12.19-08.43.31:899][254]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.12.19-08.43.31:901][254]LogWorld: Bringing World /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation.OverstimulationSimulation up for play (max tick rate 60) at 2023.12.19-04.43.31
+[2023.12.19-08.43.31:901][254]LogWorld: Bringing up level for play took: 0.001245
+[2023.12.19-08.43.31:904][254]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2023.12.19-08.43.31:905][254]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2023.12.19-08.43.31:905][254]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-42.703 Y=60.967 Z=66.150,P=0.000000 Y=0.000000 R=-0.000000
+[2023.12.19-08.43.31:905][254]LogStreaming: Display: FlushAsyncLoading(-1): 2 QueuedPackages, 0 AsyncPackages
+[2023.12.19-08.43.31:909][254]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.19-08.43.31:909][254]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.19-08.43.31:909][254]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.12.19-08.43.31:909][254]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.12.19-08.43.31:909][254]PIE: Server logged in
+[2023.12.19-08.43.31:909][254]PIE: Play in editor total start time 0.061 seconds.
+[2023.12.19-08.43.31:984][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.31:984][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.31:985][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.31:985][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.31:986][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/5/AN/1HMWSP7VCMM64UNSIKHYMZ' is in a memory-only mount point.
+[2023.12.19-08.43.31:986][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/0/YD/N5HYSUXSZG773YEDH8ARTA' is in a memory-only mount point.
+[2023.12.19-08.43.31:987][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.31:987][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.31:987][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.31:988][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.31:988][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.31:988][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.31:989][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.31:989][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.31:989][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.31:990][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.31:990][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.31:999][255]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.31:999][255]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.32:000][255]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.32:001][255]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.32:001][255]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/5/AN/1HMWSP7VCMM64UNSIKHYMZ' is in a memory-only mount point.
+[2023.12.19-08.43.32:002][255]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/0/YD/N5HYSUXSZG773YEDH8ARTA' is in a memory-only mount point.
+[2023.12.19-08.43.32:003][255]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.32:003][255]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.32:004][255]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.32:004][255]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.32:004][255]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.32:005][255]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.32:005][255]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.32:006][255]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.32:007][255]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.32:007][255]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.32:008][255]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.38:442][619]LogCharacterMovement: PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223 is stuck and failed to move! Velocity: X=30.66 Y=15.00 Z=0.00 Location: X=-42.70 Y=60.97 Z=65.01 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:14.014 Actor:MovingPlatform_C_UAID_04421A86325B26C701_2126126998 Component:Platform BoneName:None (0 other events since notify)
+[2023.12.19-08.43.39:609][689]LogCharacterMovement: PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223 is stuck and failed to move! Velocity: X=-4.57 Y=33.83 Z=0.00 Location: X=-42.64 Y=61.03 Z=64.83 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:13.827 Actor:MovingPlatform_C_UAID_04421A86325B26C701_2126126998 Component:Platform BoneName:None (58 other events since notify)
+[2023.12.19-08.43.50:859][364]LogCharacterMovement: PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223 is stuck and failed to move! Velocity: X=-325.61 Y=102.08 Z=0.00 Location: X=41.37 Y=133.00 Z=66.13 Normal: X=0.56 Y=0.82 Z=-0.12 PenetrationDepth:1.121 Actor:MovingPlatform_C_UAID_04421A86325B26C701_2126126998 Component:Platform BoneName:None (6 other events since notify)
+[2023.12.19-08.43.54:741][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-08.43.54:741][595]LogWorld: BeginTearingDown for /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation
+[2023.12.19-08.43.54:742][595]LogWorld: UWorld::CleanupWorld for OverstimulationSimulation, bSessionEnded=true, bCleanupResources=true
+[2023.12.19-08.43.54:742][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-08.43.54:743][595]LogContentBundle: [OverstimulationSimulation(Standalone)] Deleting container.
+[2023.12.19-08.43.54:753][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.19-08.43.54:757][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-08.43.54:779][595]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.19-08.43.54:779][595]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.12.19-08.43.54:779][595]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.12.19-08.43.54:781][595]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.12.19-08.43.54:784][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-08.43.54:787][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.12.19-08.43.54:818][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.43.54:864][596]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.12.19-08.43.54:873][596]LogViewport: Scene viewport resized to 463x274, mode Windowed.
+[2023.12.19-08.43.54:889][596]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.18:056][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-08.44.18:140][964]LogSavePackage: Moving output files for package: /Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter
+[2023.12.19-08.44.18:142][964]LogSavePackage: Moving '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/PlayerCharacter156248C94A0847D8C7145DAFD45053D8.tmp' to '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Content/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter.uasset'
+[2023.12.19-08.44.18:152][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 6.72 sec)
+[2023.12.19-08.44.18:157][964]AssetCheck: New page: Asset Save: PlayerCharacter
+[2023.12.19-08.44.18:157][964]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter.PlayerCharacter
+[2023.12.19-08.44.20:347][ 91]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.19-08.44.20:355][ 91]LogContentBundle: [OverstimulationSimulation(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.19-08.44.20:356][ 91]LogWorldPartition: Display: GenerateStreaming started...
+[2023.12.19-08.44.20:356][ 91]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.12.19-08.44.20:356][ 91]LogWorldPartition: Display: GetPartitionedActors took 15 us (total: 373 us)
+[2023.12.19-08.44.20:356][ 91]LogWorldPartition: Display: GenerateStreaming took 156 us (total: 2 ms)
+[2023.12.19-08.44.20:356][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.19-08.44.20:356][ 91]PIE: New page: PIE session: OverstimulationSimulation (Dec. 19, 2023, 12:44:20 a.m.)
+[2023.12.19-08.44.20:356][ 91]LogPlayLevel: Creating play world package: /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation
+[2023.12.19-08.44.20:359][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003056s)
+[2023.12.19-08.44.20:359][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation.OverstimulationSimulation to /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation.OverstimulationSimulation (0.003097s)
+[2023.12.19-08.44.20:359][ 91]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-08.44.20:359][ 91]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.19-08.44.20:360][ 91]LogAIModule: Creating AISystem for world OverstimulationSimulation
+[2023.12.19-08.44.20:360][ 91]LogWorldPartition: ULevel::OnLevelLoaded(OverstimulationSimulation)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.19-08.44.20:360][ 91]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.19-08.44.20:360][ 91]LogWorldPartition: UWorldPartition::Initialize(Asset=OverstimulationSimulation, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.12.19-08.44.20:361][ 91]LogContentBundle: [OverstimulationSimulation(Standalone)] Creating new contrainer.
+[2023.12.19-08.44.20:361][ 91]LogWorldPartition: Display: WorldPartition initialize took 725 us (total: 582 ms)
+[2023.12.19-08.44.20:361][ 91]LogPlayLevel: PIE: World Init took: (0.001966s)
+[2023.12.19-08.44.20:382][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.12.19-08.44.20:385][ 91]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.12.19-08.44.20:385][ 91]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.19-08.44.20:385][ 91]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.19-08.44.20:385][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.19-08.44.20:385][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.19-08.44.20:385][ 91]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.19-08.44.20:385][ 91]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.19-08.44.20:385][ 91]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.19-08.44.20:385][ 91]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.19-08.44.20:386][ 91]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.19-08.44.20:386][ 91]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.19-08.44.20:386][ 91]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.19-08.44.20:387][ 91]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.19-08.44.20:399][ 91]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken V3)
+[2023.12.19-08.44.20:400][ 91]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.19-08.44.20:400][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.19-08.44.20:400][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.19-08.44.20:401][ 91]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.12.19-08.44.20:401][ 91]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.12.19-08.44.20:402][ 91]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.12.19-08.44.20:402][ 91]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.12.19-08.44.20:402][ 91]LogInit: FAudioDevice initialized with ID 10.
+[2023.12.19-08.44.20:402][ 91]LogAudio: Display: Audio Device (ID: 10) registered with world 'OverstimulationSimulation'.
+[2023.12.19-08.44.20:402][ 91]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.12.19-08.44.20:405][ 91]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.12.19-08.44.20:406][ 91]LogWorld: Bringing World /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation.OverstimulationSimulation up for play (max tick rate 60) at 2023.12.19-04.44.20
+[2023.12.19-08.44.20:406][ 91]LogWorld: Bringing up level for play took: 0.001125
+[2023.12.19-08.44.20:408][ 91]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2023.12.19-08.44.20:408][ 91]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2023.12.19-08.44.20:408][ 91]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-42.703 Y=60.967 Z=66.150,P=0.000000 Y=0.000000 R=-0.000000
+[2023.12.19-08.44.20:410][ 91]LogStreaming: Display: FlushAsyncLoading(-1): 2 QueuedPackages, 0 AsyncPackages
+[2023.12.19-08.44.20:413][ 91]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.19-08.44.20:413][ 91]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.19-08.44.20:413][ 91]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.12.19-08.44.20:413][ 91]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.12.19-08.44.20:413][ 91]PIE: Server logged in
+[2023.12.19-08.44.20:414][ 91]PIE: Play in editor total start time 0.06 seconds.
+[2023.12.19-08.44.20:490][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:492][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:492][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:492][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:493][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/5/AN/1HMWSP7VCMM64UNSIKHYMZ' is in a memory-only mount point.
+[2023.12.19-08.44.20:493][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/0/YD/N5HYSUXSZG773YEDH8ARTA' is in a memory-only mount point.
+[2023.12.19-08.44.20:493][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:494][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:494][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:494][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:495][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:495][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:495][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:496][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:496][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:496][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:496][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:506][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:506][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:507][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:508][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:508][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/5/AN/1HMWSP7VCMM64UNSIKHYMZ' is in a memory-only mount point.
+[2023.12.19-08.44.20:509][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/0/YD/N5HYSUXSZG773YEDH8ARTA' is in a memory-only mount point.
+[2023.12.19-08.44.20:509][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:510][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:510][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:511][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:511][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:512][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:512][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:513][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:514][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:514][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.20:515][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.24:548][329]LogCharacterMovement: PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223 is stuck and failed to move! Velocity: X=337.37 Y=441.52 Z=0.00 Location: X=-57.88 Y=133.10 Z=65.24 Normal: X=-0.51 Y=0.84 Z=-0.18 PenetrationDepth:1.390 Actor:MovingPlatform_C_UAID_04421A86325B26C701_2126126998 Component:Platform BoneName:None (0 other events since notify)
+[2023.12.19-08.44.27:097][482]LogCharacterMovement: PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223 is stuck and failed to move! Velocity: X=271.57 Y=-511.38 Z=0.00 Location: X=-0.33 Y=135.01 Z=65.97 Normal: X=0.43 Y=0.89 Z=-0.12 PenetrationDepth:0.182 Actor:MovingPlatform_C_UAID_04421A86325B26C701_2126126998 Component:Platform BoneName:None (42 other events since notify)
+[2023.12.19-08.44.51:121][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-08.44.51:121][921]LogWorld: BeginTearingDown for /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation
+[2023.12.19-08.44.51:122][921]LogWorld: UWorld::CleanupWorld for OverstimulationSimulation, bSessionEnded=true, bCleanupResources=true
+[2023.12.19-08.44.51:122][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-08.44.51:123][921]LogContentBundle: [OverstimulationSimulation(Standalone)] Deleting container.
+[2023.12.19-08.44.51:136][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.19-08.44.51:140][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-08.44.51:162][921]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.19-08.44.51:162][921]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.12.19-08.44.51:162][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.12.19-08.44.51:164][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.12.19-08.44.51:168][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-08.44.51:171][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.12.19-08.44.51:202][921]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.44.51:249][922]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.12.19-08.44.51:257][922]LogViewport: Scene viewport resized to 463x274, mode Windowed.
+[2023.12.19-08.44.51:273][922]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.43:543][871]LogSubobjectSubsystem: Warning: Cannot remove subobject 'DefaultSceneRoot' because it is the default scene root!
+[2023.12.19-08.46.49:033][194]BlueprintLog: New page: Compile BulletBp
+[2023.12.19-08.46.49:075][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.19-08.46.49:744][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-08.46.49:827][229]LogSavePackage: Moving output files for package: /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp
+[2023.12.19-08.46.49:828][229]LogSavePackage: Moving '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/BulletBp1D0ED65543B2FC0217A7B1B3AF57FB23.tmp' to '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Content/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.uasset'
+[2023.12.19-08.46.49:837][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 6.82 sec)
+[2023.12.19-08.46.49:842][229]AssetCheck: New page: Asset Save: BulletBp
+[2023.12.19-08.46.49:842][229]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.BulletBp
+[2023.12.19-08.46.52:004][356]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.19-08.46.52:010][356]LogContentBundle: [OverstimulationSimulation(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.19-08.46.52:011][356]LogWorldPartition: Display: GenerateStreaming started...
+[2023.12.19-08.46.52:011][356]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.12.19-08.46.52:011][356]LogWorldPartition: Display: GetPartitionedActors took 14 us (total: 387 us)
+[2023.12.19-08.46.52:012][356]LogWorldPartition: Display: GenerateStreaming took 157 us (total: 2 ms)
+[2023.12.19-08.46.52:012][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.19-08.46.52:012][356]PIE: New page: PIE session: OverstimulationSimulation (Dec. 19, 2023, 12:46:52 a.m.)
+[2023.12.19-08.46.52:012][356]LogPlayLevel: Creating play world package: /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation
+[2023.12.19-08.46.52:015][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003027s)
+[2023.12.19-08.46.52:015][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation.OverstimulationSimulation to /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation.OverstimulationSimulation (0.003072s)
+[2023.12.19-08.46.52:015][356]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-08.46.52:015][356]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.19-08.46.52:016][356]LogAIModule: Creating AISystem for world OverstimulationSimulation
+[2023.12.19-08.46.52:016][356]LogWorldPartition: ULevel::OnLevelLoaded(OverstimulationSimulation)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.19-08.46.52:016][356]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.19-08.46.52:016][356]LogWorldPartition: UWorldPartition::Initialize(Asset=OverstimulationSimulation, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.12.19-08.46.52:017][356]LogContentBundle: [OverstimulationSimulation(Standalone)] Creating new contrainer.
+[2023.12.19-08.46.52:017][356]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 583 ms)
+[2023.12.19-08.46.52:018][356]LogPlayLevel: PIE: World Init took: (0.002648s)
+[2023.12.19-08.46.52:038][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.12.19-08.46.52:043][356]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.12.19-08.46.52:043][356]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.19-08.46.52:043][356]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.19-08.46.52:043][356]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.19-08.46.52:043][356]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.19-08.46.52:043][356]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.19-08.46.52:043][356]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.19-08.46.52:043][356]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.19-08.46.52:043][356]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.19-08.46.52:043][356]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.19-08.46.52:043][356]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.19-08.46.52:043][356]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.19-08.46.52:045][356]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.19-08.46.52:057][356]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken V3)
+[2023.12.19-08.46.52:057][356]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.19-08.46.52:057][356]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.19-08.46.52:057][356]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.19-08.46.52:058][356]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.12.19-08.46.52:058][356]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.12.19-08.46.52:060][356]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.12.19-08.46.52:060][356]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.12.19-08.46.52:060][356]LogInit: FAudioDevice initialized with ID 11.
+[2023.12.19-08.46.52:060][356]LogAudio: Display: Audio Device (ID: 11) registered with world 'OverstimulationSimulation'.
+[2023.12.19-08.46.52:060][356]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.12.19-08.46.52:063][356]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.12.19-08.46.52:064][356]LogWorld: Bringing World /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation.OverstimulationSimulation up for play (max tick rate 60) at 2023.12.19-04.46.52
+[2023.12.19-08.46.52:064][356]LogWorld: Bringing up level for play took: 0.001148
+[2023.12.19-08.46.52:066][356]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2023.12.19-08.46.52:066][356]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2023.12.19-08.46.52:066][356]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-42.703 Y=60.967 Z=66.150,P=0.000000 Y=0.000000 R=-0.000000
+[2023.12.19-08.46.52:066][356]LogStreaming: Display: FlushAsyncLoading(-1): 2 QueuedPackages, 0 AsyncPackages
+[2023.12.19-08.46.52:071][356]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.19-08.46.52:071][356]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.19-08.46.52:071][356]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.12.19-08.46.52:071][356]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.12.19-08.46.52:071][356]PIE: Server logged in
+[2023.12.19-08.46.52:072][356]PIE: Play in editor total start time 0.061 seconds.
+[2023.12.19-08.46.52:148][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:148][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:148][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:149][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:149][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/5/AN/1HMWSP7VCMM64UNSIKHYMZ' is in a memory-only mount point.
+[2023.12.19-08.46.52:149][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/0/YD/N5HYSUXSZG773YEDH8ARTA' is in a memory-only mount point.
+[2023.12.19-08.46.52:149][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:150][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:150][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:150][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:151][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:151][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:151][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:152][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:152][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:152][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:153][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:162][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:163][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:163][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:163][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:164][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/5/AN/1HMWSP7VCMM64UNSIKHYMZ' is in a memory-only mount point.
+[2023.12.19-08.46.52:164][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/0/YD/N5HYSUXSZG773YEDH8ARTA' is in a memory-only mount point.
+[2023.12.19-08.46.52:165][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:165][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:165][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:166][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:166][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:166][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:167][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:168][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:168][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:168][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.52:169][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.46.56:502][611]LogCharacterMovement: PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223 is stuck and failed to move! Velocity: X=26.96 Y=20.93 Z=0.00 Location: X=-42.70 Y=60.97 Z=65.01 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:14.014 Actor:MovingPlatform_C_UAID_04421A86325B26C701_2126126998 Component:Platform BoneName:None (0 other events since notify)
+[2023.12.19-08.47.01:002][881]LogCharacterMovement: PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223 is stuck and failed to move! Velocity: X=94.55 Y=92.30 Z=0.00 Location: X=342.91 Y=-57.48 Z=66.14 Normal: X=0.99 Y=0.00 Z=-0.14 PenetrationDepth:3.468 Actor:MovingPlatform_C_UAID_04421A86325B26C701_2126126998 Component:Platform BoneName:None (59 other events since notify)
+[2023.12.19-08.47.09:871][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-08.47.09:871][411]LogWorld: BeginTearingDown for /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation
+[2023.12.19-08.47.09:872][411]LogWorld: UWorld::CleanupWorld for OverstimulationSimulation, bSessionEnded=true, bCleanupResources=true
+[2023.12.19-08.47.09:872][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-08.47.09:872][411]LogContentBundle: [OverstimulationSimulation(Standalone)] Deleting container.
+[2023.12.19-08.47.09:877][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.19-08.47.09:882][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-08.47.09:904][411]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.19-08.47.09:904][411]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.12.19-08.47.09:904][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.12.19-08.47.09:906][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.12.19-08.47.09:909][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-08.47.09:913][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.12.19-08.47.09:941][411]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.47.09:987][412]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.12.19-08.47.10:003][412]LogViewport: Scene viewport resized to 463x274, mode Windowed.
+[2023.12.19-08.47.10:025][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.21:402][505]BlueprintLog: New page: Compile BulletBp
+[2023.12.19-08.50.21:441][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.12.19-08.50.22:099][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-08.50.22:193][542]LogSavePackage: Moving output files for package: /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp
+[2023.12.19-08.50.22:194][542]LogSavePackage: Moving '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/BulletBpB5F4274D49867F2C0D4DBF9EF5EEC1CA.tmp' to '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Content/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.uasset'
+[2023.12.19-08.50.22:201][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 6.92 sec)
+[2023.12.19-08.50.22:207][542]AssetCheck: New page: Asset Save: BulletBp
+[2023.12.19-08.50.22:207][542]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.BulletBp
+[2023.12.19-08.50.23:705][629]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.19-08.50.23:712][629]LogContentBundle: [OverstimulationSimulation(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.19-08.50.23:714][629]LogWorldPartition: Display: GenerateStreaming started...
+[2023.12.19-08.50.23:714][629]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.12.19-08.50.23:714][629]LogWorldPartition: Display: GetPartitionedActors took 13 us (total: 400 us)
+[2023.12.19-08.50.23:714][629]LogWorldPartition: Display: GenerateStreaming took 141 us (total: 2 ms)
+[2023.12.19-08.50.23:714][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.19-08.50.23:714][629]PIE: New page: PIE session: OverstimulationSimulation (Dec. 19, 2023, 12:50:23 a.m.)
+[2023.12.19-08.50.23:750][629]LogPlayLevel: Creating play world package: /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation
+[2023.12.19-08.50.23:753][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002552s)
+[2023.12.19-08.50.23:753][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation.OverstimulationSimulation to /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation.OverstimulationSimulation (0.002600s)
+[2023.12.19-08.50.23:753][629]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-08.50.23:753][629]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.19-08.50.23:753][629]LogAIModule: Creating AISystem for world OverstimulationSimulation
+[2023.12.19-08.50.23:754][629]LogWorldPartition: ULevel::OnLevelLoaded(OverstimulationSimulation)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.19-08.50.23:754][629]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.19-08.50.23:754][629]LogWorldPartition: UWorldPartition::Initialize(Asset=OverstimulationSimulation, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.12.19-08.50.23:754][629]LogContentBundle: [OverstimulationSimulation(Standalone)] Creating new contrainer.
+[2023.12.19-08.50.23:754][629]LogWorldPartition: Display: WorldPartition initialize took 563 us (total: 583 ms)
+[2023.12.19-08.50.23:754][629]LogPlayLevel: PIE: World Init took: (0.001548s)
+[2023.12.19-08.50.23:775][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.12.19-08.50.23:778][629]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.12.19-08.50.23:778][629]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.19-08.50.23:778][629]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.19-08.50.23:778][629]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.19-08.50.23:778][629]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.19-08.50.23:778][629]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.19-08.50.23:778][629]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.19-08.50.23:778][629]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.19-08.50.23:778][629]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.19-08.50.23:779][629]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.19-08.50.23:779][629]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.19-08.50.23:779][629]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.19-08.50.23:781][629]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.19-08.50.23:798][629]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken V3)
+[2023.12.19-08.50.23:798][629]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.19-08.50.23:798][629]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.19-08.50.23:798][629]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.19-08.50.23:799][629]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.12.19-08.50.23:799][629]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.12.19-08.50.23:801][629]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.12.19-08.50.23:801][629]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.12.19-08.50.23:801][629]LogInit: FAudioDevice initialized with ID 12.
+[2023.12.19-08.50.23:801][629]LogAudio: Display: Audio Device (ID: 12) registered with world 'OverstimulationSimulation'.
+[2023.12.19-08.50.23:802][629]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.12.19-08.50.23:804][629]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.12.19-08.50.23:805][629]LogWorld: Bringing World /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation.OverstimulationSimulation up for play (max tick rate 60) at 2023.12.19-04.50.23
+[2023.12.19-08.50.23:805][629]LogWorld: Bringing up level for play took: 0.001206
+[2023.12.19-08.50.23:807][629]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2023.12.19-08.50.23:808][629]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2023.12.19-08.50.23:808][629]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-42.703 Y=60.967 Z=66.150,P=0.000000 Y=0.000000 R=-0.000000
+[2023.12.19-08.50.23:808][629]LogStreaming: Display: FlushAsyncLoading(-1): 2 QueuedPackages, 0 AsyncPackages
+[2023.12.19-08.50.23:812][629]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.19-08.50.23:812][629]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.19-08.50.23:812][629]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.12.19-08.50.23:812][629]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.12.19-08.50.23:812][629]PIE: Server logged in
+[2023.12.19-08.50.23:813][629]PIE: Play in editor total start time 0.1 seconds.
+[2023.12.19-08.50.23:891][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:891][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:892][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:892][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:893][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/5/AN/1HMWSP7VCMM64UNSIKHYMZ' is in a memory-only mount point.
+[2023.12.19-08.50.23:893][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/0/YD/N5HYSUXSZG773YEDH8ARTA' is in a memory-only mount point.
+[2023.12.19-08.50.23:893][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:894][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:894][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:894][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:895][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:895][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:895][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:896][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:896][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:896][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:897][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:905][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:905][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:906][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:906][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:906][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/5/AN/1HMWSP7VCMM64UNSIKHYMZ' is in a memory-only mount point.
+[2023.12.19-08.50.23:906][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/0/YD/N5HYSUXSZG773YEDH8ARTA' is in a memory-only mount point.
+[2023.12.19-08.50.23:908][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:908][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:908][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:909][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:909][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:910][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:910][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:910][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:910][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:910][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.23:911][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.38:031][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-08.50.38:031][476]LogWorld: BeginTearingDown for /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation
+[2023.12.19-08.50.38:032][476]LogWorld: UWorld::CleanupWorld for OverstimulationSimulation, bSessionEnded=true, bCleanupResources=true
+[2023.12.19-08.50.38:032][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-08.50.38:032][476]LogContentBundle: [OverstimulationSimulation(Standalone)] Deleting container.
+[2023.12.19-08.50.38:037][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.19-08.50.38:040][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-08.50.38:062][476]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.19-08.50.38:062][476]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.12.19-08.50.38:062][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.12.19-08.50.38:064][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.12.19-08.50.38:067][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-08.50.38:070][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.12.19-08.50.38:099][476]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.50.38:147][477]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.12.19-08.50.38:155][477]LogViewport: Scene viewport resized to 463x274, mode Windowed.
+[2023.12.19-08.50.38:171][477]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.53.36:246][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.12.19-08.53.36:251][232]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/6/MZ/X3BT7BIIHCVQFHOS6V0109_Auto4
+[2023.12.19-08.53.36:251][232]LogSavePackage: Moving '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/X3BT7BIIHCVQFHOS6V0109_Auto48FA82F7E42C3307F4B5C3EBF586E85C1.tmp' to '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/Autosaves/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/6/MZ/X3BT7BIIHCVQFHOS6V0109_Auto4.uasset'
+[2023.12.19-08.53.36:252][232]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation' took 0.034
+[2023.12.19-08.53.36:253][232]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2023.12.19-08.53.36:253][232]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp] ([2] browsable assets)...
+[2023.12.19-08.53.36:314][232]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.BulletBp]
+[2023.12.19-08.53.36:314][232]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp]
+[2023.12.19-08.53.36:318][232]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp_Auto4
+[2023.12.19-08.53.36:318][232]LogSavePackage: Moving '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/BulletBp_Auto460A9106D49EEDABEF030FD8A425FC71C.tmp' to '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/Autosaves/Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp_Auto4.uasset'
+[2023.12.19-08.53.36:318][232]LogFileHelpers: Auto-saving content packages took 0.066
+[2023.12.19-08.55.18:377][694]BlueprintLog: New page: Compile BulletBp
+[2023.12.19-08.55.18:380][694]LogBlueprint: Error: [AssetLog] C:\Users\carsm\OneDrive\Documents\Unreal Projects\Overstimulation_Sim\Content\Developers\carsm\Projects\OverStimulationSim\BluePrints\BulletBp.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To PlayerCharacter  to imply a specific type.
+[2023.12.19-08.55.18:381][694]LogBlueprint: Error: [AssetLog] C:\Users\carsm\OneDrive\Documents\Unreal Projects\Overstimulation_Sim\Content\Developers\carsm\Projects\OverStimulationSim\BluePrints\BulletBp.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2023.12.19-08.55.18:423][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.19-08.55.59:183][335]BlueprintLog: New page: Compile BulletBp
+[2023.12.19-08.55.59:186][335]LogBlueprint: Warning: [AssetLog] C:\Users\carsm\OneDrive\Documents\Unreal Projects\Overstimulation_Sim\Content\Developers\carsm\Projects\OverStimulationSim\BluePrints\BulletBp.uasset: [Compiler] 'Player Character' does not inherit from 'Primitive Component' ( Cast To PlayerCharacter  would always fail).
+[2023.12.19-08.55.59:226][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.12.19-08.56.21:572][312]LogEditorTransaction: Undo Create Reroute Node
+[2023.12.19-08.58.06:207][285]BlueprintLog: New page: Compile BulletBp
+[2023.12.19-08.58.06:249][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.12.19-08.58.12:562][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-08.58.12:676][661]LogSavePackage: Moving output files for package: /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp
+[2023.12.19-08.58.12:677][661]LogSavePackage: Moving '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/BulletBpB228EEAF440D84B7BD4002BC1CFFEE7E.tmp' to '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Content/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.uasset'
+[2023.12.19-08.58.12:687][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 7.04 sec)
+[2023.12.19-08.58.12:693][661]AssetCheck: New page: Asset Save: BulletBp
+[2023.12.19-08.58.12:693][661]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.BulletBp
+[2023.12.19-08.58.12:988][679]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:840][842]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.19-08.58.15:846][842]LogContentBundle: [OverstimulationSimulation(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.19-08.58.15:847][842]LogWorldPartition: Display: GenerateStreaming started...
+[2023.12.19-08.58.15:847][842]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.12.19-08.58.15:847][842]LogWorldPartition: Display: GetPartitionedActors took 11 us (total: 411 us)
+[2023.12.19-08.58.15:847][842]LogWorldPartition: Display: GenerateStreaming took 140 us (total: 2 ms)
+[2023.12.19-08.58.15:849][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.19-08.58.15:849][842]PIE: New page: PIE session: OverstimulationSimulation (Dec. 19, 2023, 12:58:15 a.m.)
+[2023.12.19-08.58.15:849][842]LogPlayLevel: Creating play world package: /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation
+[2023.12.19-08.58.15:852][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002795s)
+[2023.12.19-08.58.15:852][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation.OverstimulationSimulation to /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation.OverstimulationSimulation (0.002841s)
+[2023.12.19-08.58.15:852][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-08.58.15:852][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.19-08.58.15:852][842]LogAIModule: Creating AISystem for world OverstimulationSimulation
+[2023.12.19-08.58.15:853][842]LogWorldPartition: ULevel::OnLevelLoaded(OverstimulationSimulation)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.19-08.58.15:853][842]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.19-08.58.15:853][842]LogWorldPartition: UWorldPartition::Initialize(Asset=OverstimulationSimulation, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.12.19-08.58.15:853][842]LogContentBundle: [OverstimulationSimulation(Standalone)] Creating new contrainer.
+[2023.12.19-08.58.15:853][842]LogWorldPartition: Display: WorldPartition initialize took 654 us (total: 584 ms)
+[2023.12.19-08.58.15:853][842]LogPlayLevel: PIE: World Init took: (0.001756s)
+[2023.12.19-08.58.15:878][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.19-08.58.15:882][842]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.12.19-08.58.15:882][842]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.19-08.58.15:882][842]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.19-08.58.15:882][842]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.19-08.58.15:882][842]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.19-08.58.15:882][842]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.19-08.58.15:882][842]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.19-08.58.15:882][842]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.19-08.58.15:882][842]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.19-08.58.15:883][842]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.19-08.58.15:883][842]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.19-08.58.15:883][842]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.19-08.58.15:885][842]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.19-08.58.15:898][842]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken V3)
+[2023.12.19-08.58.15:898][842]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.19-08.58.15:898][842]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.19-08.58.15:898][842]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.19-08.58.15:899][842]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.12.19-08.58.15:899][842]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.12.19-08.58.15:900][842]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.12.19-08.58.15:900][842]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.12.19-08.58.15:900][842]LogInit: FAudioDevice initialized with ID 13.
+[2023.12.19-08.58.15:900][842]LogAudio: Display: Audio Device (ID: 13) registered with world 'OverstimulationSimulation'.
+[2023.12.19-08.58.15:900][842]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.12.19-08.58.15:903][842]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.12.19-08.58.15:904][842]LogWorld: Bringing World /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation.OverstimulationSimulation up for play (max tick rate 60) at 2023.12.19-04.58.15
+[2023.12.19-08.58.15:904][842]LogWorld: Bringing up level for play took: 0.001125
+[2023.12.19-08.58.15:906][842]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2023.12.19-08.58.15:907][842]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2023.12.19-08.58.15:907][842]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-42.703 Y=60.967 Z=66.150,P=0.000000 Y=0.000000 R=-0.000000
+[2023.12.19-08.58.15:907][842]LogStreaming: Display: FlushAsyncLoading(-1): 2 QueuedPackages, 0 AsyncPackages
+[2023.12.19-08.58.15:911][842]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.19-08.58.15:911][842]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.19-08.58.15:911][842]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.12.19-08.58.15:912][842]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.12.19-08.58.15:912][842]PIE: Server logged in
+[2023.12.19-08.58.15:912][842]PIE: Play in editor total start time 0.065 seconds.
+[2023.12.19-08.58.15:928][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:928][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:928][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:929][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:929][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/5/AN/1HMWSP7VCMM64UNSIKHYMZ' is in a memory-only mount point.
+[2023.12.19-08.58.15:929][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/0/YD/N5HYSUXSZG773YEDH8ARTA' is in a memory-only mount point.
+[2023.12.19-08.58.15:930][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:930][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:930][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:931][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:931][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:931][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:932][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:932][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:932][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:933][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:933][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:941][843]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:941][843]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:942][843]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:942][843]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:943][843]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/5/AN/1HMWSP7VCMM64UNSIKHYMZ' is in a memory-only mount point.
+[2023.12.19-08.58.15:943][843]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/0/YD/N5HYSUXSZG773YEDH8ARTA' is in a memory-only mount point.
+[2023.12.19-08.58.15:943][843]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:944][843]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:944][843]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:944][843]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:945][843]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:945][843]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:945][843]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:946][843]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:946][843]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:946][843]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.15:947][843]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.20:661][123]LogCharacterMovement: PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223 is stuck and failed to move! Velocity: X=-10.16 Y=-32.58 Z=0.00 Location: X=-42.70 Y=60.97 Z=65.01 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:14.014 Actor:MovingPlatform_C_UAID_04421A86325B26C701_2126126998 Component:Platform BoneName:None (0 other events since notify)
+[2023.12.19-08.58.22:843][254]LogCharacterMovement: PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223 is stuck and failed to move! Velocity: X=63.39 Y=25.16 Z=0.00 Location: X=-27.83 Y=298.10 Z=64.92 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:13.915 Actor:MovingPlatform_C_UAID_04421A86325B27C701_1897409176 Component:Platform BoneName:None (39 other events since notify)
+[2023.12.19-08.58.23:843][314]LogCharacterMovement: PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223 is stuck and failed to move! Velocity: X=111.22 Y=-286.36 Z=0.00 Location: X=-27.78 Y=298.12 Z=64.83 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:13.827 Actor:MovingPlatform_C_UAID_04421A86325B27C701_1897409176 Component:Platform BoneName:None (42 other events since notify)
+[2023.12.19-08.58.25:877][436]LogCharacterMovement: PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223 is stuck and failed to move! Velocity: X=377.65 Y=72.40 Z=0.00 Location: X=-33.71 Y=133.04 Z=65.69 Normal: X=-0.53 Y=0.83 Z=-0.15 PenetrationDepth:1.356 Actor:MovingPlatform_C_UAID_04421A86325B26C701_2126126998 Component:Platform BoneName:None (23 other events since notify)
+[2023.12.19-08.58.27:810][552]LogCharacterMovement: PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223 is stuck and failed to move! Velocity: X=-24.68 Y=23.58 Z=0.00 Location: X=210.39 Y=198.43 Z=65.01 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:14.014 Actor:MovingPlatform_C_UAID_04421A86325B27C701_1897409176 Component:Platform BoneName:None (2 other events since notify)
+[2023.12.19-08.58.33:040][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-08.58.33:040][863]LogWorld: BeginTearingDown for /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation
+[2023.12.19-08.58.33:041][863]LogWorld: UWorld::CleanupWorld for OverstimulationSimulation, bSessionEnded=true, bCleanupResources=true
+[2023.12.19-08.58.33:041][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-08.58.33:041][863]LogContentBundle: [OverstimulationSimulation(Standalone)] Deleting container.
+[2023.12.19-08.58.33:046][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.19-08.58.33:051][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-08.58.33:076][863]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.19-08.58.33:076][863]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.12.19-08.58.33:076][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.12.19-08.58.33:078][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.12.19-08.58.33:081][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-08.58.33:084][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.19-08.58.33:114][863]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.33:158][864]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2023.12.19-08.58.33:168][864]LogViewport: Scene viewport resized to 463x274, mode Windowed.
+[2023.12.19-08.58.33:185][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-08.58.44:261][525]BlueprintLog: New page: Compile BulletBp
+[2023.12.19-08.58.44:300][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.12.19-08.58.45:625][602]LogDerivedDataCache: C:/Users/carsm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.148 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1272 files in 1985 folders with total size 46 MiB.
+[2023.12.19-08.58.45:883][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-08.58.45:997][617]LogSavePackage: Moving output files for package: /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp
+[2023.12.19-08.58.45:998][617]LogSavePackage: Moving '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/BulletBp4E138C95414FCF28D91C44AF55894AA3.tmp' to '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Content/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.uasset'
+[2023.12.19-08.58.46:006][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 7.16 sec)
+[2023.12.19-08.58.46:011][617]AssetCheck: New page: Asset Save: BulletBp
+[2023.12.19-08.58.46:011][617]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.BulletBp
+[2023.12.19-09.01.20:331][119]LogEditorTransaction: Undo Add Node
+[2023.12.19-09.02.15:840][964]BlueprintLog: New page: Compile BulletBp
+[2023.12.19-09.02.15:881][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.12.19-09.02.26:399][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-09.02.26:526][593]LogSavePackage: Moving output files for package: /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp
+[2023.12.19-09.02.26:527][593]LogSavePackage: Moving '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/BulletBpD460BA9E4118051D1F72BC8B1EA4B825.tmp' to '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Content/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.uasset'
+[2023.12.19-09.02.26:535][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 7.30 sec)
+[2023.12.19-09.02.26:540][593]AssetCheck: New page: Asset Save: BulletBp
+[2023.12.19-09.02.26:540][593]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.BulletBp
+[2023.12.19-09.02.26:717][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:096][918]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.19-09.02.32:103][918]LogContentBundle: [OverstimulationSimulation(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.19-09.02.32:104][918]LogWorldPartition: Display: GenerateStreaming started...
+[2023.12.19-09.02.32:104][918]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.12.19-09.02.32:104][918]LogWorldPartition: Display: GetPartitionedActors took 15 us (total: 427 us)
+[2023.12.19-09.02.32:104][918]LogWorldPartition: Display: GenerateStreaming took 163 us (total: 2 ms)
+[2023.12.19-09.02.32:105][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.19-09.02.32:105][918]PIE: New page: PIE session: OverstimulationSimulation (Dec. 19, 2023, 1:02:32 a.m.)
+[2023.12.19-09.02.32:105][918]LogPlayLevel: Creating play world package: /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation
+[2023.12.19-09.02.32:108][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003008s)
+[2023.12.19-09.02.32:108][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation.OverstimulationSimulation to /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation.OverstimulationSimulation (0.003051s)
+[2023.12.19-09.02.32:108][918]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-09.02.32:108][918]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.19-09.02.32:108][918]LogAIModule: Creating AISystem for world OverstimulationSimulation
+[2023.12.19-09.02.32:109][918]LogWorldPartition: ULevel::OnLevelLoaded(OverstimulationSimulation)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.19-09.02.32:109][918]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.19-09.02.32:109][918]LogWorldPartition: UWorldPartition::Initialize(Asset=OverstimulationSimulation, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.12.19-09.02.32:109][918]LogContentBundle: [OverstimulationSimulation(Standalone)] Creating new contrainer.
+[2023.12.19-09.02.32:109][918]LogWorldPartition: Display: WorldPartition initialize took 747 us (total: 585 ms)
+[2023.12.19-09.02.32:109][918]LogPlayLevel: PIE: World Init took: (0.001932s)
+[2023.12.19-09.02.32:132][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.12.19-09.02.32:137][918]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.12.19-09.02.32:137][918]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.19-09.02.32:137][918]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.19-09.02.32:137][918]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.19-09.02.32:137][918]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.19-09.02.32:137][918]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.19-09.02.32:137][918]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.19-09.02.32:137][918]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.19-09.02.32:137][918]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.19-09.02.32:139][918]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.19-09.02.32:139][918]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.19-09.02.32:139][918]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.19-09.02.32:141][918]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.19-09.02.32:153][918]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken V3)
+[2023.12.19-09.02.32:153][918]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.19-09.02.32:153][918]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.19-09.02.32:153][918]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.19-09.02.32:155][918]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.12.19-09.02.32:155][918]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.12.19-09.02.32:157][918]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.12.19-09.02.32:157][918]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.12.19-09.02.32:157][918]LogInit: FAudioDevice initialized with ID 14.
+[2023.12.19-09.02.32:157][918]LogAudio: Display: Audio Device (ID: 14) registered with world 'OverstimulationSimulation'.
+[2023.12.19-09.02.32:157][918]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.12.19-09.02.32:159][918]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.12.19-09.02.32:160][918]LogWorld: Bringing World /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation.OverstimulationSimulation up for play (max tick rate 60) at 2023.12.19-05.02.32
+[2023.12.19-09.02.32:160][918]LogWorld: Bringing up level for play took: 0.001190
+[2023.12.19-09.02.32:162][918]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2023.12.19-09.02.32:163][918]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2023.12.19-09.02.32:163][918]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-42.703 Y=60.967 Z=66.150,P=0.000000 Y=0.000000 R=-0.000000
+[2023.12.19-09.02.32:163][918]LogStreaming: Display: FlushAsyncLoading(-1): 2 QueuedPackages, 0 AsyncPackages
+[2023.12.19-09.02.32:167][918]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.19-09.02.32:167][918]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.19-09.02.32:167][918]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.12.19-09.02.32:167][918]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.12.19-09.02.32:167][918]PIE: Server logged in
+[2023.12.19-09.02.32:167][918]PIE: Play in editor total start time 0.066 seconds.
+[2023.12.19-09.02.32:183][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:184][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:184][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:184][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:185][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/5/AN/1HMWSP7VCMM64UNSIKHYMZ' is in a memory-only mount point.
+[2023.12.19-09.02.32:185][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/0/YD/N5HYSUXSZG773YEDH8ARTA' is in a memory-only mount point.
+[2023.12.19-09.02.32:186][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:186][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:186][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:187][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:187][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:187][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:188][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:188][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:188][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:189][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:189][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:200][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:200][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:201][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:201][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:201][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/5/AN/1HMWSP7VCMM64UNSIKHYMZ' is in a memory-only mount point.
+[2023.12.19-09.02.32:202][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/0/YD/N5HYSUXSZG773YEDH8ARTA' is in a memory-only mount point.
+[2023.12.19-09.02.32:202][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:203][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:203][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:203][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:204][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:204][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:204][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:205][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:205][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:205][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.32:205][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.33:593][995]LogCharacterMovement: PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223 is stuck and failed to move! Velocity: X=-5.50 Y=-33.69 Z=0.00 Location: X=-42.70 Y=60.97 Z=65.01 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:14.014 Actor:MovingPlatform_C_UAID_04421A86325B26C701_2126126998 Component:Platform BoneName:None (0 other events since notify)
+[2023.12.19-09.02.36:912][194]LogCharacterMovement: PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223 is stuck and failed to move! Velocity: X=-2.60 Y=-34.03 Z=0.00 Location: X=-18.49 Y=-154.83 Z=65.01 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:14.014 Actor:MovingPlatform_C_UAID_04421A86325B27C701_2038808177 Component:Platform BoneName:None (25 other events since notify)
+[2023.12.19-09.02.49:630][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-09.02.49:630][955]LogWorld: BeginTearingDown for /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation
+[2023.12.19-09.02.49:630][955]LogWorld: UWorld::CleanupWorld for OverstimulationSimulation, bSessionEnded=true, bCleanupResources=true
+[2023.12.19-09.02.49:631][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-09.02.49:631][955]LogContentBundle: [OverstimulationSimulation(Standalone)] Deleting container.
+[2023.12.19-09.02.49:636][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.19-09.02.49:640][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-09.02.49:665][955]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.19-09.02.49:665][955]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.12.19-09.02.49:665][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.12.19-09.02.49:667][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.12.19-09.02.49:671][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-09.02.49:674][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.12.19-09.02.49:705][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.02.49:752][956]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2023.12.19-09.02.49:761][956]LogViewport: Scene viewport resized to 463x274, mode Windowed.
+[2023.12.19-09.02.49:777][956]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.03.20:239][875]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2023.12.19-09.04.37:144][470]BlueprintLog: New page: Compile BulletBp
+[2023.12.19-09.04.37:186][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.12.19-09.04.38:177][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-09.04.38:292][526]LogSavePackage: Moving output files for package: /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp
+[2023.12.19-09.04.38:293][526]LogSavePackage: Moving '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/BulletBp9EF603504C4F570D9E97DB9797441AF2.tmp' to '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Content/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.uasset'
+[2023.12.19-09.04.38:301][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 7.42 sec)
+[2023.12.19-09.04.38:307][526]AssetCheck: New page: Asset Save: BulletBp
+[2023.12.19-09.04.38:307][526]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.BulletBp
+[2023.12.19-09.04.40:530][649]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.19-09.04.40:537][649]LogContentBundle: [OverstimulationSimulation(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.19-09.04.40:538][649]LogWorldPartition: Display: GenerateStreaming started...
+[2023.12.19-09.04.40:539][649]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.12.19-09.04.40:539][649]LogWorldPartition: Display: GetPartitionedActors took 16 us (total: 443 us)
+[2023.12.19-09.04.40:539][649]LogWorldPartition: Display: GenerateStreaming took 182 us (total: 2 ms)
+[2023.12.19-09.04.40:539][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.19-09.04.40:539][649]PIE: New page: PIE session: OverstimulationSimulation (Dec. 19, 2023, 1:04:40 a.m.)
+[2023.12.19-09.04.40:539][649]LogPlayLevel: Creating play world package: /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation
+[2023.12.19-09.04.40:542][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002885s)
+[2023.12.19-09.04.40:542][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation.OverstimulationSimulation to /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation.OverstimulationSimulation (0.002927s)
+[2023.12.19-09.04.40:542][649]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-09.04.40:542][649]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.19-09.04.40:543][649]LogAIModule: Creating AISystem for world OverstimulationSimulation
+[2023.12.19-09.04.40:543][649]LogWorldPartition: ULevel::OnLevelLoaded(OverstimulationSimulation)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.19-09.04.40:543][649]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.19-09.04.40:543][649]LogWorldPartition: UWorldPartition::Initialize(Asset=OverstimulationSimulation, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.12.19-09.04.40:544][649]LogContentBundle: [OverstimulationSimulation(Standalone)] Creating new contrainer.
+[2023.12.19-09.04.40:544][649]LogWorldPartition: Display: WorldPartition initialize took 723 us (total: 585 ms)
+[2023.12.19-09.04.40:544][649]LogPlayLevel: PIE: World Init took: (0.001962s)
+[2023.12.19-09.04.40:568][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.12.19-09.04.40:570][649]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.12.19-09.04.40:570][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.19-09.04.40:570][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.19-09.04.40:570][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.19-09.04.40:570][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.19-09.04.40:570][649]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.19-09.04.40:570][649]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.19-09.04.40:570][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.19-09.04.40:570][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.19-09.04.40:571][649]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.19-09.04.40:571][649]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.19-09.04.40:571][649]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.19-09.04.40:573][649]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.19-09.04.40:586][649]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken V3)
+[2023.12.19-09.04.40:586][649]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.19-09.04.40:586][649]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.19-09.04.40:586][649]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.19-09.04.40:587][649]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.12.19-09.04.40:587][649]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.12.19-09.04.40:589][649]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.12.19-09.04.40:589][649]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.12.19-09.04.40:589][649]LogInit: FAudioDevice initialized with ID 15.
+[2023.12.19-09.04.40:589][649]LogAudio: Display: Audio Device (ID: 15) registered with world 'OverstimulationSimulation'.
+[2023.12.19-09.04.40:589][649]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.12.19-09.04.40:592][649]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.12.19-09.04.40:593][649]LogWorld: Bringing World /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation.OverstimulationSimulation up for play (max tick rate 60) at 2023.12.19-05.04.40
+[2023.12.19-09.04.40:593][649]LogWorld: Bringing up level for play took: 0.001194
+[2023.12.19-09.04.40:595][649]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2023.12.19-09.04.40:596][649]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2023.12.19-09.04.40:596][649]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-42.703 Y=60.967 Z=66.150,P=0.000000 Y=0.000000 R=-0.000000
+[2023.12.19-09.04.40:596][649]LogStreaming: Display: FlushAsyncLoading(-1): 2 QueuedPackages, 0 AsyncPackages
+[2023.12.19-09.04.40:599][649]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.19-09.04.40:599][649]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.19-09.04.40:599][649]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.12.19-09.04.40:600][649]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.12.19-09.04.40:600][649]PIE: Server logged in
+[2023.12.19-09.04.40:601][649]PIE: Play in editor total start time 0.063 seconds.
+[2023.12.19-09.04.40:677][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:677][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:677][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:677][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:679][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/5/AN/1HMWSP7VCMM64UNSIKHYMZ' is in a memory-only mount point.
+[2023.12.19-09.04.40:679][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/0/YD/N5HYSUXSZG773YEDH8ARTA' is in a memory-only mount point.
+[2023.12.19-09.04.40:680][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:680][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:680][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:681][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:681][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:681][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:682][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:682][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:682][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:683][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:683][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:691][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:693][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:693][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:693][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:694][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/5/AN/1HMWSP7VCMM64UNSIKHYMZ' is in a memory-only mount point.
+[2023.12.19-09.04.40:694][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/0/YD/N5HYSUXSZG773YEDH8ARTA' is in a memory-only mount point.
+[2023.12.19-09.04.40:695][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:695][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:695][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:696][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:696][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:696][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:697][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:697][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:697][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:698][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.04.40:698][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.00:229][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-09.05.00:230][812]LogWorld: BeginTearingDown for /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation
+[2023.12.19-09.05.00:230][812]LogWorld: UWorld::CleanupWorld for OverstimulationSimulation, bSessionEnded=true, bCleanupResources=true
+[2023.12.19-09.05.00:230][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-09.05.00:230][812]LogContentBundle: [OverstimulationSimulation(Standalone)] Deleting container.
+[2023.12.19-09.05.00:236][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.19-09.05.00:240][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-09.05.00:265][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.19-09.05.00:265][812]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.12.19-09.05.00:265][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.12.19-09.05.00:266][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.12.19-09.05.00:269][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-09.05.00:273][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.12.19-09.05.00:302][812]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.00:349][813]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2023.12.19-09.05.00:357][813]LogViewport: Scene viewport resized to 463x274, mode Windowed.
+[2023.12.19-09.05.00:373][813]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.20:494][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-09.05.20:576][ 16]LogSavePackage: Moving output files for package: /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp
+[2023.12.19-09.05.20:577][ 16]LogSavePackage: Moving '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/BulletBp310F97794BEDA0C8AD517E85DA896B47.tmp' to '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Content/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.uasset'
+[2023.12.19-09.05.20:586][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 7.52 sec)
+[2023.12.19-09.05.20:592][ 16]AssetCheck: New page: Asset Save: BulletBp
+[2023.12.19-09.05.20:592][ 16]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/BulletBp.BulletBp
+[2023.12.19-09.05.22:235][113]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.19-09.05.22:241][113]LogContentBundle: [OverstimulationSimulation(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.19-09.05.22:242][113]LogWorldPartition: Display: GenerateStreaming started...
+[2023.12.19-09.05.22:244][113]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.12.19-09.05.22:244][113]LogWorldPartition: Display: GetPartitionedActors took 16 us (total: 460 us)
+[2023.12.19-09.05.22:244][113]LogWorldPartition: Display: GenerateStreaming took 159 us (total: 3 ms)
+[2023.12.19-09.05.22:244][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.19-09.05.22:244][113]PIE: New page: PIE session: OverstimulationSimulation (Dec. 19, 2023, 1:05:22 a.m.)
+[2023.12.19-09.05.22:244][113]LogPlayLevel: Creating play world package: /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation
+[2023.12.19-09.05.22:247][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002871s)
+[2023.12.19-09.05.22:247][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation.OverstimulationSimulation to /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation.OverstimulationSimulation (0.002925s)
+[2023.12.19-09.05.22:247][113]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-09.05.22:247][113]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.19-09.05.22:248][113]LogAIModule: Creating AISystem for world OverstimulationSimulation
+[2023.12.19-09.05.22:249][113]LogWorldPartition: ULevel::OnLevelLoaded(OverstimulationSimulation)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.19-09.05.22:249][113]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.19-09.05.22:249][113]LogWorldPartition: UWorldPartition::Initialize(Asset=OverstimulationSimulation, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.12.19-09.05.22:249][113]LogContentBundle: [OverstimulationSimulation(Standalone)] Creating new contrainer.
+[2023.12.19-09.05.22:249][113]LogWorldPartition: Display: WorldPartition initialize took 732 us (total: 586 ms)
+[2023.12.19-09.05.22:249][113]LogPlayLevel: PIE: World Init took: (0.002140s)
+[2023.12.19-09.05.22:273][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.12.19-09.05.22:279][113]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.12.19-09.05.22:279][113]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.19-09.05.22:279][113]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.19-09.05.22:279][113]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.19-09.05.22:279][113]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.19-09.05.22:279][113]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.19-09.05.22:279][113]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.19-09.05.22:279][113]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.19-09.05.22:279][113]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.19-09.05.22:279][113]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.19-09.05.22:279][113]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.19-09.05.22:279][113]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.19-09.05.22:281][113]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.19-09.05.22:293][113]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken V3)
+[2023.12.19-09.05.22:294][113]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.19-09.05.22:294][113]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.19-09.05.22:294][113]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.19-09.05.22:294][113]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.12.19-09.05.22:294][113]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.12.19-09.05.22:296][113]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.12.19-09.05.22:296][113]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.12.19-09.05.22:296][113]LogInit: FAudioDevice initialized with ID 16.
+[2023.12.19-09.05.22:296][113]LogAudio: Display: Audio Device (ID: 16) registered with world 'OverstimulationSimulation'.
+[2023.12.19-09.05.22:296][113]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.12.19-09.05.22:298][113]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.12.19-09.05.22:299][113]LogWorld: Bringing World /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation.OverstimulationSimulation up for play (max tick rate 60) at 2023.12.19-05.05.22
+[2023.12.19-09.05.22:299][113]LogWorld: Bringing up level for play took: 0.001187
+[2023.12.19-09.05.22:302][113]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2023.12.19-09.05.22:303][113]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2023.12.19-09.05.22:303][113]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-42.703 Y=60.967 Z=66.150,P=0.000000 Y=0.000000 R=-0.000000
+[2023.12.19-09.05.22:303][113]LogStreaming: Display: FlushAsyncLoading(-1): 2 QueuedPackages, 0 AsyncPackages
+[2023.12.19-09.05.22:307][113]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.19-09.05.22:307][113]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.19-09.05.22:307][113]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.12.19-09.05.22:307][113]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.12.19-09.05.22:307][113]PIE: Server logged in
+[2023.12.19-09.05.22:307][113]PIE: Play in editor total start time 0.066 seconds.
+[2023.12.19-09.05.22:387][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:387][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:388][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:388][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:388][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/5/AN/1HMWSP7VCMM64UNSIKHYMZ' is in a memory-only mount point.
+[2023.12.19-09.05.22:390][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/0/YD/N5HYSUXSZG773YEDH8ARTA' is in a memory-only mount point.
+[2023.12.19-09.05.22:390][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:390][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:390][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:391][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:391][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:391][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:392][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:392][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:392][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:392][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:393][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:405][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:406][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:406][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:407][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:407][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/5/AN/1HMWSP7VCMM64UNSIKHYMZ' is in a memory-only mount point.
+[2023.12.19-09.05.22:408][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_OverstimulationSimulation_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/0/YD/N5HYSUXSZG773YEDH8ARTA' is in a memory-only mount point.
+[2023.12.19-09.05.22:408][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:408][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:408][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:409][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:409][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:409][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:410][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:410][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:411][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:411][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.22:411][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.31:509][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-09.05.31:510][652]LogWorld: BeginTearingDown for /Game/Developers/carsm/Projects/OverStimulationSim/UEDPIE_0_OverstimulationSimulation
+[2023.12.19-09.05.31:510][652]LogWorld: UWorld::CleanupWorld for OverstimulationSimulation, bSessionEnded=true, bCleanupResources=true
+[2023.12.19-09.05.31:510][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-09.05.31:510][652]LogContentBundle: [OverstimulationSimulation(Standalone)] Deleting container.
+[2023.12.19-09.05.31:515][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.19-09.05.31:520][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-09.05.31:543][652]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.19-09.05.31:543][652]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.12.19-09.05.31:543][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.12.19-09.05.31:544][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.12.19-09.05.31:547][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-09.05.31:551][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.19-09.05.31:580][652]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.31:627][653]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.12.19-09.05.31:636][653]LogViewport: Scene viewport resized to 463x274, mode Windowed.
+[2023.12.19-09.05.31:651][653]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.19-09.05.34:124][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-09.05.34:201][799]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/6/MZ/X3BT7BIIHCVQFHOS6V0109
+[2023.12.19-09.05.34:202][799]LogSavePackage: Moving '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Saved/X3BT7BIIHCVQFHOS6V0109960BC432445EB201C711EF88924DB69C.tmp' to '../../../../../../Users/carsm/OneDrive/Documents/Unreal Projects/Overstimulation_Sim/Content/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/6/MZ/X3BT7BIIHCVQFHOS6V0109.uasset'
+[2023.12.19-09.05.34:212][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 7.60 sec)
+[2023.12.19-09.05.34:219][799]AssetCheck: New page: Asset Save: PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223
+[2023.12.19-09.05.34:219][799]LogContentValidation: Display: Validating /Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter.PlayerCharacter_C /Game/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation.OverstimulationSimulation:PersistentLevel.PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223
