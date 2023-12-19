@@ -1,0 +1,84 @@
+[+] Containers:
+ |- [+] Container: /Game/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:07012E6A4A328E686614DE98F9EE2103 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_04421A86325B44C501_1650558163 Label:Wall4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-380.000 Y=-375.000 Z=15.000), Max=(X=-360.000 Y=375.000 Z=435.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Environment/Walls+Floor FolderGuid:79BEF95F41D41B4EBF06E2A67B734206
+ |   |   |- Guid:17A166DB41CA04F10504928110DB9657 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_04421A86325B44C501_1173157159 Label:Floor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-375.000 Y=-375.000 Z=10.000), Max=(X=375.000 Y=375.000 Z=20.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Environment/Walls+Floor FolderGuid:79BEF95F41D41B4EBF06E2A67B734206
+ |   |   |- Guid:397B7A2E40CB8908D8BCCCA246D56858 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_04421A86325B44C501_1500705160 Label:Wall1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-375.000 Y=360.000 Z=15.000), Max=(X=375.000 Y=380.000 Z=435.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Environment/Walls+Floor FolderGuid:79BEF95F41D41B4EBF06E2A67B734206
+ |   |   |- Guid:4350B49140267B693290A3BB6F4A8172 BaseClass:/Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter.PlayerCharacter_C NativeClass:/Script/Engine.Character Name:PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223 Label:PlayerCharacter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=171.717 Y=226.536 Z=184.546), Max=(X=349.956 Y=306.661 Z=298.141) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Player FolderGuid:B726634C44D0DD6C6DF49E923E07B07C
+ |   |   |- Guid:456936CA4F93250A2CF2AA8E42A9ED37 BaseClass:/Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/MovingPlatform.MovingPlatform_C NativeClass:/Script/Engine.Actor Name:MovingPlatform_C_UAID_04421A86325B27C701_1897409176 Label:MovingPlatform2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=120.000 Y=150.000 Z=160.755), Max=(X=320.000 Y=350.000 Z=170.755) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Environment/Platforms FolderGuid:38A8DFE84129A195E4267EB8FF83C71A
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:554478A74A08F86D286DACBBF57DB86F BaseClass:/Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/SpikeHazard.SpikeHazard_C NativeClass:/Script/Engine.Actor Name:SpikeHazard_C_UAID_04421A86325B36C701_1363122240 Label:SpikeHazard SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-481.083 Y=-421.574 Z=-117.180), Max=(X=40.636 Y=-18.099 Z=237.206) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:83A4A88B40D9E5BC58BC65B6056F72A6 BaseClass:/Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/MovingPlatform.MovingPlatform_C NativeClass:/Script/Engine.Actor Name:MovingPlatform_C_UAID_04421A86325B26C701_2126126998 Label:MovingPlatform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-320.000 Y=-80.000 Z=160.755), Max=(X=-120.000 Y=120.000 Z=170.755) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Environment/Platforms FolderGuid:38A8DFE84129A195E4267EB8FF83C71A
+ |   |   |- Guid:A55F01D641BA840432FB0D97886B8929 BaseClass:/Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/MovingPlatform.MovingPlatform_C NativeClass:/Script/Engine.Actor Name:MovingPlatform_C_UAID_04421A86325B27C701_2038808177 Label:MovingPlatform3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=120.000 Y=-350.000 Z=160.755), Max=(X=320.000 Y=-150.000 Z=170.755) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Environment/Platforms FolderGuid:38A8DFE84129A195E4267EB8FF83C71A
+ |   |   |- Guid:AD6155104C0A8D90EE06BBB97592D785 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_04421A86325B28C701_1612716354 Label:PointLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1050.000 Y=-370.000 Z=-310.000), Max=(X=350.000 Y=1030.000 Z=1090.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:D13680C240C4989CBC5AD49AAF4424CD BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_04421A86325B28C701_1656063355 Label:PointLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-390.000 Y=-1010.000 Z=-310.000), Max=(X=1010.000 Y=390.000 Z=1090.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:E0094A974DB70ABBBAFB41BF6AE75778 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_04421A86325B44C501_1594298162 Label:Wall3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=360.000 Y=-375.000 Z=15.000), Max=(X=380.000 Y=375.000 Z=435.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Environment/Walls+Floor FolderGuid:79BEF95F41D41B4EBF06E2A67B734206
+ |   |   |- Guid:ED47E7764C7DA68710EA04A6CDD1E88A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_04421A86325B44C501_1568021161 Label:Wall2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-375.000 Y=-380.000 Z=15.000), Max=(X=375.000 Y=-360.000 Z=435.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Environment/Walls+Floor FolderGuid:79BEF95F41D41B4EBF06E2A67B734206
+ |   |   |- Guid:F933D8BA4866A3D6C5223BAE7368A680 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_04421A86325B44C501_1679735164 Label:Roof SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-375.000 Y=-375.000 Z=420.000), Max=(X=375.000 Y=375.000 Z=430.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Environment/Walls+Floor FolderGuid:79BEF95F41D41B4EBF06E2A67B734206
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:D13680C240C4989CBC5AD49AAF4424CD BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_04421A86325B28C701_1656063355 Label:PointLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-390.000 Y=-1010.000 Z=-310.000), Max=(X=1010.000 Y=390.000 Z=1090.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:A55F01D641BA840432FB0D97886B8929 BaseClass:/Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/MovingPlatform.MovingPlatform_C NativeClass:/Script/Engine.Actor Name:MovingPlatform_C_UAID_04421A86325B27C701_2038808177 Label:MovingPlatform3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=120.000 Y=-350.000 Z=160.755), Max=(X=320.000 Y=-150.000 Z=170.755) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Environment/Platforms FolderGuid:38A8DFE84129A195E4267EB8FF83C71A
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:397B7A2E40CB8908D8BCCCA246D56858 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_04421A86325B44C501_1500705160 Label:Wall1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-375.000 Y=360.000 Z=15.000), Max=(X=375.000 Y=380.000 Z=435.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Environment/Walls+Floor FolderGuid:79BEF95F41D41B4EBF06E2A67B734206
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:456936CA4F93250A2CF2AA8E42A9ED37 BaseClass:/Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/MovingPlatform.MovingPlatform_C NativeClass:/Script/Engine.Actor Name:MovingPlatform_C_UAID_04421A86325B27C701_1897409176 Label:MovingPlatform2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=120.000 Y=150.000 Z=160.755), Max=(X=320.000 Y=350.000 Z=170.755) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Environment/Platforms FolderGuid:38A8DFE84129A195E4267EB8FF83C71A
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:AD6155104C0A8D90EE06BBB97592D785 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_04421A86325B28C701_1612716354 Label:PointLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1050.000 Y=-370.000 Z=-310.000), Max=(X=350.000 Y=1030.000 Z=1090.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:E0094A974DB70ABBBAFB41BF6AE75778 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_04421A86325B44C501_1594298162 Label:Wall3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=360.000 Y=-375.000 Z=15.000), Max=(X=380.000 Y=375.000 Z=435.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Environment/Walls+Floor FolderGuid:79BEF95F41D41B4EBF06E2A67B734206
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:4350B49140267B693290A3BB6F4A8172 BaseClass:/Game/Developers/carsm/Projects/OverStimulationSim/Character/Blueprints/PlayerCharacter.PlayerCharacter_C NativeClass:/Script/Engine.Character Name:PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223 Label:PlayerCharacter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=171.717 Y=226.536 Z=184.546), Max=(X=349.956 Y=306.661 Z=298.141) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Player FolderGuid:B726634C44D0DD6C6DF49E923E07B07C
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:F933D8BA4866A3D6C5223BAE7368A680 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_04421A86325B44C501_1679735164 Label:Roof SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-375.000 Y=-375.000 Z=420.000), Max=(X=375.000 Y=375.000 Z=430.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Environment/Walls+Floor FolderGuid:79BEF95F41D41B4EBF06E2A67B734206
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:ED47E7764C7DA68710EA04A6CDD1E88A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_04421A86325B44C501_1568021161 Label:Wall2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-375.000 Y=-380.000 Z=15.000), Max=(X=375.000 Y=-360.000 Z=435.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Environment/Walls+Floor FolderGuid:79BEF95F41D41B4EBF06E2A67B734206
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:83A4A88B40D9E5BC58BC65B6056F72A6 BaseClass:/Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/MovingPlatform.MovingPlatform_C NativeClass:/Script/Engine.Actor Name:MovingPlatform_C_UAID_04421A86325B26C701_2126126998 Label:MovingPlatform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-320.000 Y=-80.000 Z=160.755), Max=(X=-120.000 Y=120.000 Z=170.755) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Environment/Platforms FolderGuid:38A8DFE84129A195E4267EB8FF83C71A
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:17A166DB41CA04F10504928110DB9657 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_04421A86325B44C501_1173157159 Label:Floor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-375.000 Y=-375.000 Z=10.000), Max=(X=375.000 Y=375.000 Z=20.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Environment/Walls+Floor FolderGuid:79BEF95F41D41B4EBF06E2A67B734206
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:07012E6A4A328E686614DE98F9EE2103 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_04421A86325B44C501_1650558163 Label:Wall4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-380.000 Y=-375.000 Z=15.000), Max=(X=-360.000 Y=375.000 Z=435.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Environment/Walls+Floor FolderGuid:79BEF95F41D41B4EBF06E2A67B734206
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:554478A74A08F86D286DACBBF57DB86F BaseClass:/Game/Developers/carsm/Projects/OverStimulationSim/BluePrints/SpikeHazard.SpikeHazard_C NativeClass:/Script/Engine.Actor Name:SpikeHazard_C_UAID_04421A86325B36C701_1363122240 Label:SpikeHazard SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-481.083 Y=-421.574 Z=-117.180), Max=(X=40.636 Y=-18.099 Z=237.206) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-1050.000 Y=-1010.000 Z=-310.000), Max=(X=1010.000 Y=1030.000 Z=1090.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation
+----------------------------------------------------------------------------------------------------------------
+OverstimulationSimulation - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 21 
+
+----------------------------------------------------------------------------------------------------------------
+OverstimulationSimulation - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=-1050.000 Y=-1010.000 Z=-310.000), Max=(X=1010.000 Y=1030.000 Z=1090.000)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    2 | Cell Size   25600 | Actor Count    3 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X0_Y-1
+ |   |- Actor Count: 1
+ |   |- Actor Path: /Game/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation.OverstimulationSimulation:PersistentLevel.MovingPlatform_C_UAID_04421A86325B27C701_2038808177
+ |   |- Actor Package: /Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/0/YD/N5HYSUXSZG773YEDH8ARTA
+ |- [+] Content of Cell MainGrid_L0_X0_Y0
+ |   |- Actor Count: 2
+ |   |- Actor Path: /Game/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation.OverstimulationSimulation:PersistentLevel.MovingPlatform_C_UAID_04421A86325B27C701_1897409176
+ |   |- Actor Package: /Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/5/AN/1HMWSP7VCMM64UNSIKHYMZ
+ |   |- Actor Path: /Game/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation.OverstimulationSimulation:PersistentLevel.PlayerCharacter_C_UAID_04421A86325B2DC701_1845023223
+ |   |- Actor Package: /Game/__ExternalActors__/Developers/carsm/Projects/OverStimulationSim/OverstimulationSimulation/6/MZ/X3BT7BIIHCVQFHOS6V0109
+[+] Content of Grid Level 1
+
